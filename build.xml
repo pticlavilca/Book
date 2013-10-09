@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="Book" basedir="." default="message">
+
+    <target name="message">
+        <echo>${ant.project.name}</echo>
+    </target>
+
+    <property name="bin.dir" value="out/production/Book"/>
+
+    <target name="copy_assets" depends="message">
+        <copy file="book.cfg.xml" todir="${bin.dir}"/>
+    </target>
+</project>

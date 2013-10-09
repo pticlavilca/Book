@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+    <title>Libro de Programación</title>
+    <author>Paul Joel Ticlavilca Gutierrez</author>
+    <description>Libro de programación orientada a objetos</description>
+
+    <chapter title="Capítulo 1">
+        <description>Introducción a los ordenadores</description>
+        <activities>
+            <activity title="Que puedes hacer con tu ordenador" time="25">
+                <statement>Arrastra las piezas las actividades</statement>
+            </activity>
+            <activity title="Vision de los ordenadores" time="30">
+                <statement>Selecciona las visiones y arrastra a su contenedor</statement>
+            </activity>
+        </activities>
+
+    </chapter>
+    <chapter title="Capítulo 2">
+        <description>Hitoria de los ordenadores</description>
+        <activities>
+            <activity title="Quien fué el que descubrió" time="25">
+                <statement>Arrastra el nombre del que descubrio el ordenador</statement>
+            </activity>
+            <activity title="Intervesores" time="30">
+                <statement>Escribe el nombre de los que intervinieron en la realiación del ordenador</statement>
+            </activity>
+        </activities>
+    </chapter>
+    <chapter title="Capítulo 3">
+        <description>Partes de los ordenadores</description>
+    </chapter>
+    <chapter title="Capítulo 4">
+        <description>El Hardware</description>
+    </chapter>
+    <chapter title="Capítulo 5">
+        <description>El Software</description>
+    </chapter>
+    <chapter title="Capítulo 6">
+        <description>Tipos de ordenadores</description>
+    </chapter>
+
+
+</book>
