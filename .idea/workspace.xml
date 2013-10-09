@@ -6,22 +6,22 @@
     </list>
     <ignored path="Book.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="325dad01-507f-4985-b1ab-e0858d524882" time="1381288927011" ignored="false" />
-    <file path="/fragment.js2" changelist="325dad01-507f-4985-b1ab-e0858d524882" time="1381291578999" ignored="false" />
+    <file path="/Dummy.txt" changelist="325dad01-507f-4985-b1ab-e0858d524882" time="1381346240607" ignored="false" />
+    <file path="/fragment.js2" changelist="325dad01-507f-4985-b1ab-e0858d524882" time="1381329730699" ignored="false" />
     <file path="/IBook.as" changelist="325dad01-507f-4985-b1ab-e0858d524882" time="1381276959613" ignored="false" />
     <file path="/Chapter.as" changelist="325dad01-507f-4985-b1ab-e0858d524882" time="1381289209056" ignored="false" />
     <file path="/Book.as" changelist="325dad01-507f-4985-b1ab-e0858d524882" time="1381279087526" ignored="false" />
     <file path="/build.xml" changelist="325dad01-507f-4985-b1ab-e0858d524882" time="1381270905983" ignored="false" />
-    <file path="/book.cfg.xml" changelist="325dad01-507f-4985-b1ab-e0858d524882" time="1381289920949" ignored="false" />
+    <file path="/book.cfg.xml" changelist="325dad01-507f-4985-b1ab-e0858d524882" time="1381348734371" ignored="false" />
     <file path="$PROJECT_DIR$/../test/src/com/javapaul/test/load/Data.as" changelist="325dad01-507f-4985-b1ab-e0858d524882" time="1381274041982" ignored="false" />
-    <file path="/Data.as" changelist="325dad01-507f-4985-b1ab-e0858d524882" time="1381291420483" ignored="false" />
+    <file path="/Data.as" changelist="325dad01-507f-4985-b1ab-e0858d524882" time="1381329803438" ignored="false" />
     <file path="/Launcher.as" changelist="325dad01-507f-4985-b1ab-e0858d524882" time="1381291532766" ignored="false" />
     <file path="D:/@library/framework/src/com/javapaul/event/ReadyEvent.as" changelist="325dad01-507f-4985-b1ab-e0858d524882" time="1381275722117" ignored="false" />
     <file path="/ReadyEvent.as" changelist="325dad01-507f-4985-b1ab-e0858d524882" time="1381275721702" ignored="false" />
     <file path="/__dummy.js" changelist="325dad01-507f-4985-b1ab-e0858d524882" time="1381277769846" ignored="false" />
     <file path="/LoadDataEvent.as" changelist="325dad01-507f-4985-b1ab-e0858d524882" time="1381280079653" ignored="false" />
     <file path="/CompleteLoadDataEvent.as" changelist="325dad01-507f-4985-b1ab-e0858d524882" time="1381280055304" ignored="false" />
-    <file path="/Activity.as" changelist="325dad01-507f-4985-b1ab-e0858d524882" time="1381291098082" ignored="false" />
+    <file path="/Activity.as" changelist="325dad01-507f-4985-b1ab-e0858d524882" time="1381329683801" ignored="false" />
     <file path="/a.dummy" changelist="325dad01-507f-4985-b1ab-e0858d524882" time="1381290867733" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -82,59 +82,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Launcher.as" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Launcher.as">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="35" selection-start="582" selection-end="582" vertical-scroll-proportion="0.9234568">
-              <folding>
-                <element signature="e#11#63#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Book.as" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/javapaul/book/model/Book.as">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="0" selection-start="355" selection-end="355" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Chapter.as" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/javapaul/book/model/Chapter.as">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="43" column="4" selection-start="935" selection-end="935" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Activity.as" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/javapaul/book/model/Activity.as">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="26" selection-start="152" selection-end="152" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Data.as" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/javapaul/book/data/Data.as">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="67" column="0" selection-start="1919" selection-end="1919" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#190#230#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="book.cfg.xml" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="book.cfg.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/book.cfg.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="40" selection-start="1053" selection-end="1063" vertical-scroll-proportion="0.0">
+            <state line="8" column="91" selection-start="486" selection-end="486" vertical-scroll-proportion="0.24908425">
               <folding />
             </state>
           </provider>
@@ -164,20 +115,20 @@
         <option value="$PROJECT_DIR$/src/com/javapaul/book/model/IBook.as" />
         <option value="$PROJECT_DIR$/src/com/javapaul/book/data/LoadDataEvent.as" />
         <option value="$PROJECT_DIR$/src/com/javapaul/book/data/CompleteLoadDataEvent.as" />
-        <option value="$PROJECT_DIR$/book.cfg.xml" />
         <option value="$PROJECT_DIR$/src/com/javapaul/book/model/Book.as" />
         <option value="$PROJECT_DIR$/src/com/javapaul/book/model/Chapter.as" />
+        <option value="$PROJECT_DIR$/src/Launcher.as" />
         <option value="$PROJECT_DIR$/src/com/javapaul/book/model/Activity.as" />
         <option value="$PROJECT_DIR$/src/com/javapaul/book/data/Data.as" />
-        <option value="$PROJECT_DIR$/src/Launcher.as" />
+        <option value="$PROJECT_DIR$/book.cfg.xml" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1616" />
-    <option name="height" value="876" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -207,6 +158,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -289,8 +242,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -301,7 +252,7 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="options.lastSelected" value="preferences.general" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="D:/@library/framework/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../framework/src" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="GoToClass.includeJavaFiles" value="false" />
     <property name="MemberChooser.copyJavadoc" value="false" />
@@ -512,31 +463,31 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24967825" sideWeight="0.60111576" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39888424" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24924242" sideWeight="0.60111576" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39836067" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32775453" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24967825" sideWeight="0.60111576" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24924242" sideWeight="0.60111576" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32775453" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
     </layout>
@@ -612,42 +563,37 @@
     </buildFile>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/book.cfg.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="40" selection-start="1053" selection-end="1063" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Launcher.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="40" selection-start="581" selection-end="581" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#11#63#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="27" column="40" selection-start="581" selection-end="581" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/javapaul/book/data/CompleteLoadDataEvent.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="26" selection-start="512" selection-end="512" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="18" column="26" selection-start="512" selection-end="512" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/javapaul/book/model/Book.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="5" selection-start="437" selection-end="437" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="19" column="5" selection-start="437" selection-end="437" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/javapaul/book/model/Chapter.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="314" selection-end="314" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="13" column="0" selection-start="314" selection-end="314" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/javapaul/book/data/Data.as">
       <provider selected="true" editor-type-id="text-editor">
         <state line="56" column="8" selection-start="1320" selection-end="1320" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#190#230#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -672,54 +618,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/javapaul/book/data/CompleteLoadDataEvent.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="26" selection-start="512" selection-end="512" vertical-scroll-proportion="0.24531025">
-          <folding />
-        </state>
+        <state line="18" column="26" selection-start="512" selection-end="512" vertical-scroll-proportion="0.24531025" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/javapaul/book/model/Book.as">
+    <entry file="file://$PROJECT_DIR$/src/com/javapaul/book/data/Data.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="355" selection-end="355" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/javapaul/book/model/Chapter.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="4" selection-start="935" selection-end="935" vertical-scroll-proportion="0.0">
+        <state line="59" column="78" selection-start="1837" selection-end="1837" vertical-scroll-proportion="0.45617172">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/javapaul/book/model/Activity.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="26" selection-start="152" selection-end="152" vertical-scroll-proportion="0.0">
+        <state line="55" column="4" selection-start="1106" selection-end="1106" vertical-scroll-proportion="1.6690519">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/javapaul/book/data/Data.as">
+    <entry file="file://$PROJECT_DIR$/src/com/javapaul/book/model/Chapter.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="67" column="0" selection-start="1919" selection-end="1919" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#190#230#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="43" column="4" selection-start="935" selection-end="935" vertical-scroll-proportion="0.54382825" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/book.cfg.xml">
+    <entry file="file://$PROJECT_DIR$/src/com/javapaul/book/model/Book.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="40" selection-start="1053" selection-end="1063" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="16" column="0" selection-start="355" selection-end="355" vertical-scroll-proportion="0.030411448" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Launcher.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="35" selection-start="582" selection-end="582" vertical-scroll-proportion="0.9234568">
-          <folding>
-            <element signature="e#11#63#0" expanded="true" />
-          </folding>
+        <state line="22" column="54" selection-start="582" selection-end="582" vertical-scroll-proportion="0.6690519" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book.cfg.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="91" selection-start="486" selection-end="486" vertical-scroll-proportion="0.24908425">
+          <folding />
         </state>
       </provider>
     </entry>

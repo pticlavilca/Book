@@ -7,6 +7,7 @@ public class Activity {
     private var _time:Number;
     private var _score:String;
     private var _isComplete:Boolean = false;
+    private var _url:String;
 
     public function Activity() {
 
@@ -50,6 +51,14 @@ public class Activity {
 
     public function set isComplete(value:Boolean):void {
         _isComplete = value;
+    }
+
+    public function get url():String {
+        return _url;
+    }
+
+    public function set url(value:String):void {
+        _url = value;
     }
 }
 }

@@ -56,6 +56,7 @@ public class Data extends EventDispatcher{
                 activity.title = event.xml.chapter[i].activities.activity[u].@title;
                 activity.statement = event.xml.chapter[i].activities.activity[u].statement;
                 activity.time = event.xml.chapter[i].activities.activity[u].@time;
+                activity.url = event.xml.chapter[i].activities.activity[u].@url;
 
                 activityVector.push(activity);
 
