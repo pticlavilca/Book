@@ -4,10 +4,10 @@
     <author>Paul Joel Ticlavilca Gutierrez</author>
     <description>Actividades de las diferentes areas para el desarrollo educativo del niño</description>
 
-    <chapter title="Personal Social">
+    <chapter title="Personal Social" background="images.jpg">
         <description>Actividades que ayudan el fortalecimiento de la identidad nacional, la equidad, la interculturalidad y la formación en valores.</description>
         <activities>
-            <activity title="Yo Soy" time="25">
+            <activity title="Yo Soy" time="25" url="swf/u1a1">
                 <statement>Selecciona cual es tu género</statement>
             </activity>
             <activity title="Mi Nombre es" time="30">
@@ -30,9 +30,8 @@
             </activity>
         </activities>
     </chapter>
-    <chapter title="Lógico Matematico">
-        <description>Partes de los ordenadores</description>
-    </chapter>
+
+
     <chapter title="Ciencia y Ambiente">
         <description>El Hardware</description>
     </chapter>

@@ -1,36 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <book>
-    <title>Libro de Programación</title>
+    <title>Libro de Actividades para niños de 3 años</title>
     <author>Paul Joel Ticlavilca Gutierrez</author>
-    <description>Libro de programación orientada a objetos</description>
+    <description>Actividades de las diferentes areas para el desarrollo educativo del niño</description>
 
-    <chapter title="Capítulo 1">
-        <description>Introducción a los ordenadores</description>
+    <chapter title="Personal Social">
+        <description>Actividades que ayudan el fortalecimiento de la identidad nacional, la equidad, la interculturalidad y la formación en valores.</description>
         <activities>
-            <activity title="Que puedes hacer con tu ordenador" time="25">
-                <statement>Arrastra las piezas las actividades</statement>
+            <activity title="Yo Soy" time="25">
+                <statement>Selecciona cual es tu género</statement>
             </activity>
-            <activity title="Vision de los ordenadores" time="30">
-                <statement>Selecciona las visiones y arrastra a su contenedor</statement>
+            <activity title="Mi Nombre es" time="30">
+                <statement>Arma tu nombre, decora e imprime</statement>
+            </activity>
+            <activity title="Reconoce a tu familia" time="30">
+                <statement>Arrastra los nombres donde corresponde</statement>
             </activity>
         </activities>
 
     </chapter>
-    <chapter title="Capítulo 2">
+    <chapter title="Comunicación Integral">
         <description>Hitoria de los ordenadores</description>
         <activities>
             <activity title="Quien fué el que descubrió" time="25">
                 <statement>Arrastra el nombre del que descubrio el ordenador</statement>
             </activity>
-            <activity title="Intervesores" time="30">
+            <activity title="Intervesores" time="30" url="swf/activity1.swf">
                 <statement>Escribe el nombre de los que intervinieron en la realiación del ordenador</statement>
             </activity>
         </activities>
     </chapter>
-    <chapter title="Capítulo 3">
-        <description>Partes de los ordenadores</description>
-    </chapter>
-    <chapter title="Capítulo 4">
+
+
+    <chapter title="Ciencia y Ambiente">
         <description>El Hardware</description>
     </chapter>
     <chapter title="Capítulo 5">
