@@ -12,11 +12,12 @@ import flash.display.MovieClip;
 
 public class BookController extends MovieClip implements  IBookController {
     private var background:MovieClip;
-    private var title:MovieClip;
 
-    public function BookController(_background:MovieClip, _title:MovieClip) {
+
+    public function BookController(_background:MovieClip) {
         this.background = _background;
-        this.title = _title;
+
+
 
     }
 }
